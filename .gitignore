@@ -12,5 +12,5 @@ test.db
 .Trashes
 ehthumbs.db
 Thumbs.db
-backend/cert.pem
-backend/key.pem
+backend/src/cert.pem
+backend/src/key.pem
